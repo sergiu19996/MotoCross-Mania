@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap'); 
+
+* {
+padding: 0;
+margin: 0;
+border: none;
+}
+
+body {
+    font-family: 'Changa One', cursive;
+    
+    font-weight: 300;
+    color: rgba(255, 0, 0, 0.83);
+}
+
+h1 {
+    font-family: 'Changa One', cursive;
+    
+    text-transform: uppercase;  
+    letter-spacing: 6px;
+    
+    color: red;
+}
