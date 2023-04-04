@@ -10,7 +10,7 @@ body {
     font-family: 'Changa One', cursive;
     
     font-weight: 300;
-    color: rgba(255, 0, 0, 0.83);
+    color: black;
 }
 
 h1 {
@@ -20,4 +20,25 @@ h1 {
     letter-spacing: 6px;
     
     color: red;
+}
+
+#titlu {
+    float: left;
+    font-size: 230%;
+}
+
+#butoane {
+    font-size: 100%;
+    letter-spacing: 2px;  
+}
+
+#butoane li {
+    float: right;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+#butoane a {
+    text-decoration: none;
+    color: inherit;
 }
