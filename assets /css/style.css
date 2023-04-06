@@ -10,7 +10,7 @@ border: none;
 body {
     font-family: 'Changa One', cursive;   
     font-weight: 300;
-    color: #3a3a3a;
+    color: black;
 }
 
 h1 {
@@ -28,7 +28,7 @@ h1 {
 }
 
 #Motocross-image {
-    height: 900px;
+    height: 669git addpx;
     width: 100%;
     background: url(../images/Motocross\ proiect.jpg) no-repeat center center;
 }
@@ -55,9 +55,7 @@ h1 {
 }
 
 #butoane a:hover {
-    border-bottom: 2px solid #3a3a3a;
+    border-bottom: 2px solid black;
 }
 
-.pornit {
-    border-bottom: 2px solid #3a3a3a;
-}
+
