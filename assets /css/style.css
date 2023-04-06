@@ -4,13 +4,13 @@
 padding: 0;
 margin: 0;
 border: none;
+
 }
 
 body {
-    font-family: 'Changa One', cursive;
-    
+    font-family: 'Changa One', cursive;   
     font-weight: 300;
-    color: black;
+    color: #3a3a3a;
 }
 
 h1 {
@@ -27,9 +27,20 @@ h1 {
     font-size: 230%;
 }
 
+#Motocross-image {
+    height: 900px;
+    width: 100%;
+    background: url(../images/Motocross\ proiect.jpg) no-repeat center center;
+}
+
+
 #butoane {
     font-size: 100%;
     letter-spacing: 2px;  
+}
+
+#butoane, #titlu{
+    line-height: 50px;
 }
 
 #butoane li {
@@ -41,4 +52,12 @@ h1 {
 #butoane a {
     text-decoration: none;
     color: inherit;
+}
+
+#butoane a:hover {
+    border-bottom: 2px solid #3a3a3a;
+}
+
+.pornit {
+    border-bottom: 2px solid #3a3a3a;
 }
