@@ -102,5 +102,34 @@ text h2 {
     position: absolute;   
 }
 
+#reguli-poze {
+    clear: both;
+    width: 50%;
+    columns: 3; 
+    line-height: 0;
+    padding-left: 10px;
+    padding-right: 700px;
+    column-gap: 0px;
+    position: absolute;
+
+}
+
+#reguli-poze img{
+    width: 100%;
+}
+
+#task {
+    position: absolute;
+    letter-spacing: 4px;
+    padding-left: 800px;
+    text-align: right center;
+    border-bottom: 4px solid #3a3a3a; 
+}
+.ratie {
+    float: right;
+    color: #3a3a3a;
+    padding-right: 10px;
+    padding-bottom: 50px;
+}
 
  
