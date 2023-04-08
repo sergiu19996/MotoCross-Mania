@@ -29,18 +29,19 @@ h1 {
     height: 635px;
     width: 100%;
     overflow: hidden;
+    position: relative;
 }
 
 #text,
 text h2 {
-    color: black;
+    color: #fff;
 
 }
 
 #Motocross-image {
     height: 669px;
     width: 100%;
-    background: url(../images/Motocross\ proiect.jpg) no-repeat center center;
+    background: url(../images/Motocross\ proiect.jpg) no-repeat center center ;
     animation-name: Motocross;
     animation-duration: 5s;
     animation-fill-mode: forwards;
@@ -83,19 +84,31 @@ text h2 {
     border-bottom: 2px solid black;
 }
 
-#text {
+#text>h2 {
     font-size: 70%;
     font-family: 'Noto Serif Khojki', serif;
     letter-spacing: 4px;
     text-transform: uppercase;
 
     width: 200px;
-    height: 100px;
-    padding-top: 40px;
+    height: 200px;
+    padding-top: 30px;
     padding-left: 60px;
-    background-color: #ffffff;
-    bottom: 300px;
-    right: 300px;
+    background-color: black .7 ;
+ text-align: center;
+    bottom: 390px;
+    right: 470px;
+
     position: absolute;
     
 }
+ .paragraf {
+    font-family: 'Noto Serif Khojki', serif;
+    color: #fff .7;
+    left: 300px;
+    top: 200px;
+    width: 200px;
+    height: 300px;
+    text-align: left;
+    
+ }
