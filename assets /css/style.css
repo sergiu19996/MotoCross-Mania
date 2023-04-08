@@ -85,30 +85,22 @@ text h2 {
 }
 
 #text>h2 {
-    font-size: 70%;
+    font-size: 80%;
     font-family: 'Noto Serif Khojki', serif;
     letter-spacing: 4px;
     text-transform: uppercase;
-
+    display: block;
+    border: 10px solid ;
     width: 200px;
-    height: 200px;
+    height: 150px;
     padding-top: 30px;
-    padding-left: 60px;
-    background-color: black .7 ;
- text-align: center;
+    padding-left: 15px;
+    background-color: black  ;
+    text-align: center;
     bottom: 390px;
-    right: 470px;
-
-    position: absolute;
-    
+    right: 500px;
+    position: absolute;   
 }
- .paragraf {
-    font-family: 'Noto Serif Khojki', serif;
-    color: #fff .7;
-    left: 300px;
-    top: 200px;
-    width: 200px;
-    height: 300px;
-    text-align: left;
-    
- }
+
+
+ 
