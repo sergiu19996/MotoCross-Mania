@@ -122,15 +122,21 @@ hr {
 }
 }
 
+
+
 label {
+    
     display: block;
-    font: 1rem 'Fira Sans', sans-serif;
+    font: 1rem 'Noto Serif Khojki', serif;  
+    color: #fff;
     
 }
 
 input,
 label {
     margin: 0.4rem 0;
+    text-align: auto;
+    margin-left: 40%;
 }
 input, #name { 
     border: 3px solid #3a3a3a;
@@ -147,6 +153,25 @@ input, #name {
         border: 3px solid #3a3a3a;
      }
 
+
+     #inregistrare {
+        font-size: x-large;
+        color: red;
+        text-align: center;
+        text-transform: uppercase;
+     }
+     
+     #submit {
+        font-size: larger;
+        width: 100px;
+       margin-top: 20px;
+     }
+      
+     #last-sectiom{
+        background-color: black;
+     }
+
+     
  
     
    
