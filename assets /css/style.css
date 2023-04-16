@@ -97,6 +97,7 @@ text h2 {
     width: 100%;
 }
 #task {
+    columns: 1;
     letter-spacing: 4px;
     padding-left: 2rem;
     border-bottom: 4px solid #3a3a3a; 
@@ -170,6 +171,26 @@ input, #name {
      #last-sectiom{
         background-color: black;
      }
+footer {
+    height: 150px; 
+    text-align: center;   
+}
+
+footer> h2{
+    color: red;
+    font-family: 'Noto Serif Khojki', serif;
+}
+
+.icoane, li{
+    display: inline;
+}
+
+.icoane i{
+    font-size: 30px;
+    margin: 5%;
+    padding: 40px;
+    color: red;
+}
 
      
  
