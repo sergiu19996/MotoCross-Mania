@@ -74,7 +74,7 @@ text h2 {
 #butoane a:hover {
     border-bottom: 2px solid black;
 }
-#text>h2 {
+#text> h2 {
     font-size: 80%;
     font-family: 'Noto Serif Khojki', serif;
     letter-spacing: 4px;
@@ -96,6 +96,10 @@ text h2 {
 }
 #reguli-poze img{
     width: 100%;
+}
+.titlu-2{
+    font-family: 'Noto Serif Khojki', serif;
+    color: #3a3a3a;
 }
 #task {
     display: inline-block;
