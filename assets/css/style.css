@@ -128,8 +128,7 @@ hr {
 
 
 label {
-    
-    display: block;
+    display: inline-block;
     font: 1rem 'Noto Serif Khojki', serif;  
     color: #fff;
     
@@ -138,7 +137,6 @@ label {
 input,
 label {
     margin: 0.4rem 0;
-    text-align: center;
     margin-left: 40%;
 }
 input, #name { 
