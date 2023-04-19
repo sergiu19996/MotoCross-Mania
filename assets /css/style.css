@@ -22,6 +22,7 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 6px;
     color: #3a3a3a;
+    font-size: small;
 }
 #titlu {
     float: left;
@@ -97,6 +98,7 @@ text h2 {
     width: 100%;
 }
 #task {
+    display: inline-block;
     columns: 1;
     letter-spacing: 4px;
     padding-left: 2rem;
@@ -174,6 +176,7 @@ input, #name {
 footer {
     height: 150px; 
     text-align: center;   
+    
 }
 
 footer> h2{
@@ -181,13 +184,13 @@ footer> h2{
     font-family: 'Noto Serif Khojki', serif;
 }
 
-.icoane, li{
-    display: inline;
-}
 
-.icoane i{
+    
+
+ .icoane li{
+    display: inline;
     font-size: 30px;
-    margin: 5%;
+    margin: 15%;
     padding: 40px;
     color: red;
 }
