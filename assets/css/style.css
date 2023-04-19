@@ -138,7 +138,7 @@ label {
 input,
 label {
     margin: 0.4rem 0;
-    text-align: auto;
+    text-align: center;
     margin-left: 40%;
 }
 input, #name { 
@@ -157,12 +157,8 @@ input, #name {
      }
 
 
-     #inregistrare {
-        font-size: x-large;
-        color: red;
-        text-align: center;
-        text-transform: uppercase;
-     }
+     
+     
      
      #submit {
         font-size: larger;
