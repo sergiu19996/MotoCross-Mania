@@ -129,7 +129,13 @@ hr {
 }
 }
 
-
+.inregistrare {
+    font-family: 'Noto Serif Khojki', serif;
+    color: red;
+    font-size: x-large;
+    text-align: center;
+    text-transform: uppercase;
+}
 
 label {
     display: inline-block;
@@ -182,7 +188,10 @@ footer> h2{
     font-family: 'Noto Serif Khojki', serif;
 }
 
-
+.icoane i{
+    color: red;
+    display: inline-block;
+}
     
 
  .icoane li{
