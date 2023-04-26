@@ -41,7 +41,7 @@ text h2 {
 #Motocross-image {
     height: 546px;
     width: 100%;
-    background: url(../images/motocross_proiect_720.jpg) no-repeat center center ;
+    background: url(../images/motocross-proiect-720.jpg) no-repeat center center ;
     animation-name: Motocross;
     animation-duration: 5s;
     animation-fill-mode: forwards;
