@@ -54,10 +54,16 @@ adventure and thrills full of adrenaline, by registering on this website you can
 
 # Deployment 
 
-**the site was deployed to GitHub pages.The steps deploy are as follows:
-  -in the GitHub repositoryy,navigate to the Settings tab 
-  -From the source section drop-down menu select Master branch 
-  -once the master branch has been selected the page provided the ling to the completed website**
+  -The site was deployed to GitHub pages.The steps deploy are as follows:
+
+  -In the GitHub repositoryy,navigate to the Settings 
+  tab 
+  
+  -From the source section drop-down menu select Master 
+  branch 
+  
+  -Once the master branch has been selected the page provided the ling to the completed website
+  
   -I started off by creating a local git repo with teh command
 git init
   -then at regular points I added new changes with teh command
@@ -65,7 +71,7 @@ git add .
   - then committed them to my local git staging area with
 git commit -m 'useful comment'
   - then push my local git repo to the external one using
-git push
+git push 
 
 # Credits 
 
