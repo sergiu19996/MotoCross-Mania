@@ -40,11 +40,13 @@ adventure and thrills full of adrenaline, by registering on this website you can
 
 # VALIDATOR TESTING 
 ## HTML ##
-1.**No errors were returned when passing through the official W3C**
+1.**No errors were returned when passing through the official W3C** ![screenshot_2023-04-26_at_19 57 45_720](https://user-images.githubusercontent.com/126587603/234687051-ee95e06f-bbaa-499b-8358-f7df9aa1633c.png)
+
 
 ## CSS ##
 
 1.**No errors were returned when passing through the official jigsaw**
+![screenshot_2023-04-26_at_19 58 15_720](https://user-images.githubusercontent.com/126587603/234687156-04593e46-8e80-4e34-b9c1-9a847cd922a4.png)
 
 ## Unfixed Bugs ##
 
@@ -56,6 +58,14 @@ adventure and thrills full of adrenaline, by registering on this website you can
   -in the GitHub repositoryy,navigate to the Settings tab 
   -From the source section drop-down menu select Master branch 
   -once the master branch has been selected the page provided the ling to the completed website**
+  -I started off by creating a local git repo with teh command
+git init
+  -then at regular points I added new changes with teh command
+git add .
+  - then committed them to my local git staging area with
+git commit -m 'useful comment'
+  - then push my local git repo to the external one using
+git push
 
 # Credits 
 
@@ -66,3 +76,6 @@ adventure and thrills full of adrenaline, by registering on this website you can
 
  -**the pictures was taken from google**
 
+## Issue ##
+
+  -I was haveing a miss understood betwen me and my mentor about (title name from the contact form)
