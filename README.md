@@ -84,4 +84,4 @@ git push
 
 ## Issue ##
 
-  -I was haveing a miss understood betwen me and my mentor about (title name from the contact form)
+  -I had a misunderstanding between me and my mentor about (title name in the contact form)
