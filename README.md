@@ -56,7 +56,7 @@ adventure and thrills full of adrenaline, by registering on this website you can
 
   -The site was deployed to GitHub pages.The steps deploy are as follows:
 
-  -In the GitHub repositoryy,navigate to the Settings 
+  -In the GitHub repository,navigate to the Settings 
   tab 
   
   -From the source section drop-down menu select Master 
