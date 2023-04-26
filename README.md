@@ -34,9 +34,9 @@ adventure and thrills full of adrenaline, by registering on this website you can
 ![gogosar](https://user-images.githubusercontent.com/126587603/233219810-10572ebe-25c2-407e-a5e6-20d3f9e93804.png)
 
 # efficiency and Accesibility
-1.**i was tested the site on Lighthouse and on another browsers like:chrome,firefox and safa**
+1.**i was tested the site on Lighthouse and on another browsers like:chrome,firefox and safari**
 ![gogosar](https://user-images.githubusercontent.com/126587603/233220358-916989b2-8022-4606-8b9a-2dcb2886f45e.png)
-ri;
+
 
 # VALIDATOR TESTING 
 ## HTML ##
