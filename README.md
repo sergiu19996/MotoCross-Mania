@@ -78,7 +78,8 @@ git push
  ## Content ##
    -**the code to make almost all project was taken from the Course (Code Institute)**
    
-   -**A few tips from my mentor side**
+   -**A few tips from my mentor **
+   
    
 ## Media ## 
 
