@@ -22,7 +22,8 @@ adventure and thrills full of adrenaline, by registering on this website you can
 
 2.**we can also find the rules that must be respected are listed in the column with black text on a white background to be very clear for future competitors**
 
-![gogosar](https://user-images.githubusercontent.com/126587603/233219289-8fabfc05-10e5-4c8c-8522-cbce80248292.png)
+![bubuiala1](https://github.com/sergiu19996/MotoCross-Mania/assets/126587603/d3d6ac40-aab4-49a4-bf69-b65e43835e4a)
+
 
 
 # LAST SECTION (Sign Up)
