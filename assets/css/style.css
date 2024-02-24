@@ -1,22 +1,54 @@
 @import url('https://fonts.googleapis.com/css2?family=Changa+One&family=Noto+Serif+Khojki:wght@600&family=Roboto:wght@300&display=swap');
+
 * {
     padding: 0;
     margin: 0;
     border: none;
 }
+
 body {
     font-family: 'Noto Serif Khojki', serif;
     font-weight: 300;
     color: black;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
+
 .container {
-  max-width: 1140px;
-  width: 100%;
-  padding-right: 15px;
-  padding-left: 15px;
-  margin-right: auto;
-  margin-left: auto;
+    max-width: 1140px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
 }
+
+header {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+main {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex: 1 0 auto;
+}
+
 h1 {
     font-family: 'Noto Serif Khojki', serif;
     text-transform: uppercase;
@@ -24,110 +56,129 @@ h1 {
     color: #3a3a3a;
     font-size: medium;
 }
+
 #titlu {
     float: left;
     font-size: 230%;
 }
-#Motocross-zoomeffect {
+
+#motocross-zoomeffect {
     height: 635px;
     width: 100%;
     overflow: hidden;
-    
+
 }
+
 #text,
 text h2 {
     color: #fff;
 }
-#Motocross-image {
+
+#motocross-image {
     height: 546px;
     width: 100%;
-    background: url(../images/motocross-proiect-720.jpg) no-repeat center center ;
-    animation-name: Motocross;
+    background: url(../images/motocross-proiect-720.jpg) no-repeat center center;
+    /* animation-name: motocross;
     animation-duration: 5s;
-    animation-fill-mode: forwards;
+    animation-fill-mode: forwards; */
 }
-@keyframes Motocross {
+
+@keyframes motocross {
     from {
         transform: scale(1);
     }
+
     to {
         transform: scale(1.3);
     }
 }
+
 #butoane {
     font-size: 100%;
     letter-spacing: 2px;
 }
+
 #butoane,
 #titlu {
     line-height: 50px;
 }
+
 #butoane li {
     float: right;
     list-style-type: none;
     margin-right: 20px;
 }
+
 #butoane a {
     text-decoration: none;
     color: inherit;
 }
+
 #butoane a:hover {
     border-bottom: 2px solid black;
 }
-#text> h2 {
+
+#text>h2 {
     font-size: 80%;
     font-family: 'Noto Serif Khojki', serif;
     letter-spacing: 4px;
     text-transform: uppercase;
     display: block;
-    border: 10px solid ;
+    border: 10px solid;
     width: 200px;
     height: 150px;
     margin: 100px auto;
     padding-top: 20px;
-    background-color: black  ;
-    text-align: center;  
+    background-color: black;
+    text-align: center;
 }
+
 #reguli-poze {
     clear: both;
     width: 100%;
-    columns: 3; 
+    columns: 3;
     line-height: 0;
     column-gap: 0px;
 }
-#reguli-poze img{
+
+#reguli-poze img {
     width: 100%;
 }
-.titlu-2{
+
+.titlu-2 {
     font-family: 'Noto Serif Khojki', serif;
     color: #3a3a3a;
 }
+
 #task {
     display: inline-block;
     columns: 1;
     letter-spacing: 4px;
     padding-left: 2rem;
-    border-bottom: 4px solid #3a3a3a; 
+    border-bottom: 4px solid #3a3a3a;
 }
+
 .ratie {
     color: #3a3a3a;
     padding-right: 10px;
 }
+
 hr {
-  margin: 1rem 1rem;
-  color: black;
-  background-color: #3a3a3a;
-  height:2px;
-  border-width:0;
+    margin: 1rem 1rem;
+    color: black;
+    background-color: #3a3a3a;
+    height: 2px;
+    border-width: 0;
 }
+
 @media screen and (max-width: 650px) {
-  #reguli-poze {
-    clear: both;
-    width: 100%;
-    columns: 1; 
-    line-height: 0;
-    column-gap: 0px;
-}
+    #reguli-poze {
+        clear: both;
+        width: 100%;
+        columns: 1;
+        line-height: 0;
+        column-gap: 0px;
+    }
 }
 
 .inregistrare {
@@ -138,73 +189,96 @@ hr {
     text-transform: uppercase;
 }
 
+.form_section {
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+.form_section form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
 label {
     display: inline-block;
-    font: 1rem 'Noto Serif Khojki', serif;  
+    font: 1rem 'Noto Serif Khojki', serif;
     color: #fff;
-    
+
 }
 
 input,
 label {
     margin: 0.4rem 0;
-    margin-left: 40%;
 }
-input, #name { 
+
+input,
+#name {
     border: 3px solid #3a3a3a;
-     }
-    
-     #password, input{
-        display: block;
-        border: 3px solid #3a3a3a;
-     }
-      
-     #email, input {
-        display: block;
-        font-size: 12px;
-        border: 3px solid #3a3a3a;
-     }
-
-
-     
-     
-     
-     #submit {
-        font-size: larger;
-        width: 100px;
-       margin-top: 20px;
-     }
-      
-     #last-sectiom{
-        background-color: black;
-     }
-footer {
-    height: 150px; 
-    text-align: center;   
-    
 }
 
-footer> h2{
+#password,
+input {
+    display: block;
+    border: 3px solid #3a3a3a;
+}
+
+#email,
+input {
+    display: block;
+    font-size: 12px;
+    border: 3px solid #3a3a3a;
+}
+
+#submit {
+    font-size: larger;
+    width: 100px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+#submit:hover {
+    background-color: #3a3a3a;
+    color: white;
+}
+
+#last-sectiom {
+    background-color: black;
+}
+
+footer {
+    background-color: #3a3a3a;
+    height: 150px;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+footer>h2 {
     color: red;
     font-family: 'Noto Serif Khojki', serif;
 }
 
-.icoane i{
+.icoane i {
     color: red;
     display: inline-block;
 }
-    
 
- .icoane li{
+
+.icoane li {
     display: inline;
     font-size: 30px;
-    margin: 15%;
-    padding: 40px;
     color: red;
 }
-
-     
- 
-    
-   
-

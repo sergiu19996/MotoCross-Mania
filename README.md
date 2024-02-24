@@ -1,6 +1,6 @@
 ![screenshot_2023-04-18_at_20 17 04_720](https://user-images.githubusercontent.com/126587603/233216670-ebeedf37-ff1a-4c10-8387-ebe61f624d5c.png)
 
-Motocross Mania is a website for the type of people who love 
+motocross Mania is a website for the type of people who love 
 adventure and thrills full of adrenaline, by registering on this website you can get information about the new races that will appear and the prizes that are up for grabs
 
 # NAVIGATION BAR 
@@ -22,14 +22,14 @@ adventure and thrills full of adrenaline, by registering on this website you can
 
 2.**we can also find the rules that must be respected are listed in the column with black text on a white background to be very clear for future competitors**
 
-![bubuiala1](https://github.com/sergiu19996/MotoCross-Mania/assets/126587603/d3d6ac40-aab4-49a4-bf69-b65e43835e4a)
+![bubuiala1](https://github.com/sergiu19996/motocross-Mania/assets/126587603/d3d6ac40-aab4-49a4-bf69-b65e43835e4a)
 
 
 
 # LAST SECTION (Sign Up)
 
 1.**the last section is created for those who want to join the races and win amazing prizes**
-(![aia buna](https://github.com/sergiu19996/MotoCross-Mania/assets/126587603/330bbcc0-4ad0-472a-9c70-ffd621c88a0c)
+(![aia buna](https://github.com/sergiu19996/motocross-Mania/assets/126587603/330bbcc0-4ad0-472a-9c70-ffd621c88a0c)
 )
 
 2.**you can also follow us on social media**
