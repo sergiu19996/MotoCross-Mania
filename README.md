@@ -85,8 +85,27 @@ git push
    -**A few tips from my mentor **
    
    
-## Credits ##
+# Credits #
+
   **Media**
   
  - All the images for the website were taken from Google Pitcures section [acces link](https://www.google.com/search?sca_esv=3bc652a4c53a3f84&sca_upv=1&rlz=1C1FHFK_enIE931IE931&sxsrf=ACQVn0-hDUHrt9W0GAaySLHB2lwhFFfExA:1708880536943&q=motocross&uds=AMwkrPsexEChRtCOnDJKlMyrpuYMBIwAiDuEGoCfnw12LlY4h8FWr5629xKfaBYSSZWILS8mJOeQnE_YkBTriIFFN5L9fzeWkvEueYFVhZ7atq7mpl1XlG_Jq_R9Om3JZ0be9FMUitq4&udm=2&sa=X&ved=2ahUKEwjMvviK_MaEAxVJZ0EAHSLAAJwQtKgLegQIEBAB&biw=1536&bih=703&dpr=1.25)
+
+ - Header Pictures
+      ![First Picture](https://github.com/sergiu19996/MotoCross-Mania/assets/126587603/222a6cd5-031b-47a5-8885-d6e8913c27ce)
+
+ - Gallery:
+   
+ - [First Pictures](https://github.com/sergiu19996/MotoCross-Mania/assets/126587603/5e73356c-ad2c-4997-a9fc-057ec5d4b545)
+   
+ - ![Second](https://github.com/sergiu19996/MotoCross-Mania/assets/126587603/2566c485-de4a-4cf3-b7d8-027bb9989c64)
+   
+ - ![Third](https://github.com/sergiu19996/MotoCross-Mania/assets/126587603/3233d9da-e6c3-4fbc-8e6e-366deca1deb9)
+   
+ - ![Fourth](https://github.com/sergiu19996/MotoCross-Mania/assets/126587603/f363cdef-4b6e-44ae-b71c-6891cb0195f2)
+
+ - ![Fifth](https://github.com/sergiu19996/MotoCross-Mania/assets/126587603/991edf07-6860-43d4-8695-69161f1c5169)
+
+
+
 
