@@ -3,7 +3,9 @@
 motocross Mania is a website for the type of people who love 
 adventure and thrills full of adrenaline, by registering on this website you can get information about the new races that will appear and the prizes that are up for grabs
 
-# NAVIGATION BAR 
+# Features
+
+###Navbar
  
 1.**in the navigation bar we have three buttons that can help us to navigate on the site easly :home,Gallery and Rulesand Sign  Up**
 
