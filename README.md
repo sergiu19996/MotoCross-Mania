@@ -84,12 +84,9 @@ git push
  ## Content ##
    -**the code to make almost all project was taken from the Course (Code Institute)**
    
-   -**A few tips from my mentor **
+   -**A few tips from my mentor**
    
-   
-# Credits #
-
-  **Media**
+ **Media**
   
  - All the images for the website were taken from Google Pitcures section [acces link](https://www.google.com/search?sca_esv=3bc652a4c53a3f84&sca_upv=1&rlz=1C1FHFK_enIE931IE931&sxsrf=ACQVn0-hDUHrt9W0GAaySLHB2lwhFFfExA:1708880536943&q=motocross&uds=AMwkrPsexEChRtCOnDJKlMyrpuYMBIwAiDuEGoCfnw12LlY4h8FWr5629xKfaBYSSZWILS8mJOeQnE_YkBTriIFFN5L9fzeWkvEueYFVhZ7atq7mpl1XlG_Jq_R9Om3JZ0be9FMUitq4&udm=2&sa=X&ved=2ahUKEwjMvviK_MaEAxVJZ0EAHSLAAJwQtKgLegQIEBAB&biw=1536&bih=703&dpr=1.25)
 
