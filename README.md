@@ -5,7 +5,7 @@ adventure and thrills full of adrenaline, by registering on this website you can
 
 # Features
 
-###Navbar
++ ###Navbar
  
 1.**in the navigation bar we have three buttons that can help us to navigate on the site easly :home,Gallery and Rulesand Sign  Up**
 
