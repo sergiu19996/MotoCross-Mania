@@ -97,7 +97,7 @@ git push
 
  *Gallery*
    
- - [First Pictures](https://github.com/sergiu19996/MotoCross-Mania/assets/126587603/5e73356c-ad2c-4997-a9fc-057ec5d4b545)
+ - ![First Pictures](https://github.com/sergiu19996/MotoCross-Mania/assets/126587603/5e73356c-ad2c-4997-a9fc-057ec5d4b545)
    
  - ![Second](https://github.com/sergiu19996/MotoCross-Mania/assets/126587603/2566c485-de4a-4cf3-b7d8-027bb9989c64)
    
