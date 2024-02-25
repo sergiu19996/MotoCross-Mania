@@ -32,7 +32,7 @@ adventure and thrills full of adrenaline, by registering on this website you can
 
 1.**the last section is created for those who want to join the races and win amazing prizes**
 (![aia buna](https://github.com/sergiu19996/motocross-Mania/assets/126587603/330bbcc0-4ad0-472a-9c70-ffd621c88a0c)
-)
+
 
 2.**you can also follow us on social media**
 ![gogosar](https://user-images.githubusercontent.com/126587603/233219810-10572ebe-25c2-407e-a5e6-20d3f9e93804.png)
@@ -56,7 +56,7 @@ adventure and thrills full of adrenaline, by registering on this website you can
 
 1.**i was having a problem with the overlay at the main pictures trying to create an effect**
     - Solution: I was delelted the picture's effect from CSS.
-2.**Also having a bug with 
+ 
 
 # Deployment 
 
