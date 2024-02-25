@@ -56,6 +56,7 @@ adventure and thrills full of adrenaline, by registering on this website you can
 
 1.**i was having a problem with the overlay at the main pictures trying to create an effect**
     - Solution: I was delelted the picture's effect from CSS.
+    
  
 
 # Deployment 
@@ -94,7 +95,7 @@ git push
    
  - ![First Picture](https://github.com/sergiu19996/MotoCross-Mania/assets/126587603/222a6cd5-031b-47a5-8885-d6e8913c27ce)
 
- *Gallery*
+ # Gallery
    
  - ![First Pictures](https://github.com/sergiu19996/MotoCross-Mania/assets/126587603/5e73356c-ad2c-4997-a9fc-057ec5d4b545)
    
